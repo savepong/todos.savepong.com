@@ -27,3 +27,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Resource
+https://github.com/vuejs/vue/blob/dev/examples/todomvc/index.html
