@@ -1,19 +1,19 @@
 <template>
   <div id="app">
-    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-    <Todos/>
+    <img alt="Vue logo" src="./assets/logo.png" />
+    <Todos />
   </div>
 </template>
 
 <script>
-import Todos from './components/Todos.vue'
+import Todos from "./components/Todos.vue";
 
 export default {
-  name: 'app',
+  name: "app",
   components: {
-    Todos
-  }
-}
+    Todos,
+  },
+};
 </script>
 
 <style>
